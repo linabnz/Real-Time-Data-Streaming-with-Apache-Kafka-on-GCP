@@ -94,3 +94,19 @@ kefta-group/
 ##  Machine Learning sur BigQuery
 
 Clustering des clients/taxis basé sur leurs coordonnées 
+
+##  Contributeurs
+
+Ce projet a été réalisé dans le cadre du Master **MOSEF – Big Data & Data Science**.
+
+###  Équipe KEFTA GROUP
+
+| Nom              | GitHub / Contact                                  | 
+|------------------|---------------------------------------------------|
+| Lina Benzemma    | [@linabnz](https://github.com/linabnz)            |
+| Sharon Chemmama  | [@Sharon2607](https://github.com/Sharon2607)      |
+| Tonin Rivory     | [@ton1rvr](https://github.com/ton1rvr)            | 
+| Gaétan Dumas     | [@gaetan250](https://github.com/gaetan250)        |
+| Pierre Liberge   | [@pierreliberge](https://github.com/pierreliberge)|
+
+> Merci à toute l'équipe **KEFTA GROUP** pour la cuisson lente et le stream rapide ! 
