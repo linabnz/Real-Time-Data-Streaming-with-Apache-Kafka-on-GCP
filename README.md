@@ -68,7 +68,7 @@ kefta-group/
 ├── .gitignore                  # Fichier pour ignorer les fichiers inutiles au versionnage
 └── README.md                   # Documentation principale du projet
 
-
+```
 ---
 
 ##  Workflow détaillé
