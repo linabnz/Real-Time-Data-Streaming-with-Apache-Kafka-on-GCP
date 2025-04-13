@@ -1,0 +1,21 @@
+{
+    "data": [
+      {
+        "confort": "low",
+        "prix_base_per_km": 2,
+        "properties_client": {
+          "longitude": -58.3816,
+          "latitude": -34.6037,
+          "nomclient": "Lucia",
+          "telephoneClient": "0633445566"
+        },
+        "properties_driver": {
+          "longitude": 139.6917,
+          "latitude": 35.6895,
+          "nomDriver": "Hiroshi",
+          "telephoneDriver": "0777888999"
+        }
+      }
+    ]
+  }
+  
